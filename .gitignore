@@ -1,0 +1,30 @@
+# ==============================================================================
+# SECRETS AND ENVIRONMENT VARIABLES (CRITICAL)
+# ==============================================================================
+.env
+.env.local
+.env.*.local
+*.env
+!*.env.example
+
+# Environments and Virtualenv
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and runtime outputs
+*.log
