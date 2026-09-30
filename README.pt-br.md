@@ -120,5 +120,5 @@ Ao processar a base de vendas, o script extrai automaticamente os totais:
 ## 👤 Autor
 
 Desenvolvido por **Thiago A. Duarte**.  
-- LinkedIn: [Seu Perfil do LinkedIn](https://linkedin.com/in/)  
-- GitHub: [Seu Perfil do GitHub](https://github.com/)  
+- LinkedIn: https://www.linkedin.com/in/thiago-duarte-32a64839 
+- GitHub: https://github.com/Tduarte89
