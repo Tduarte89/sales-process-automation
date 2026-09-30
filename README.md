@@ -120,5 +120,5 @@ When executed against the sales dataset, the system automatically computes:
 ## 👤 Author
 
 Developed by **Thiago A. Duarte**.  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/)  
-- GitHub: [Your GitHub Profile](https://github.com/)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/thiago-duarte-32a64839)  
+- GitHub: [Your GitHub Profile](https://github.com/Tduarte89)  
